@@ -1,0 +1,27 @@
+/*
+some admin styles
+*/
+
+div#pg_quota 
+{
+    width: 300px;
+    border: 1px solid #000;
+    background: #c0c0c0;
+    height: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+div#pg_quota p 
+{
+    height: 20px;
+    display: block;
+    background: #0f0;
+    margin: 0px;
+}
+
+div#pg_quota span 
+{
+    position: absolute;
+    margin: 0px 0px 0px 130px;
+}
